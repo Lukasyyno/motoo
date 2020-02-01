@@ -1,0 +1,2 @@
+# motoo
+novoty.exe
